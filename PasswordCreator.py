@@ -16,3 +16,9 @@ for i in range(Password_Length):
     Generated_Password += random_char
 time.sleep(0.2)
 print(Fore.LIGHTGREEN_EX + "Oluşturulan Parola: ", Generated_Password)
+
+
+a = ("random")
+
+
+
